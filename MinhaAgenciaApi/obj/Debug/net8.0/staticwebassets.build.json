@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2rGJH3obIRW8uJuXdUBldRRjiDRTEyYNT9yyMJdQ1sQ=",
+  "Source": "MinhaAgenciaApi",
+  "BasePath": "_content/MinhaAgenciaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
